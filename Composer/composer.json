@@ -1,0 +1,15 @@
+{
+    "name": "israelfluz/composer",
+    "description": "Aula de PhP7",
+    "type": "project",
+    "authors": [
+        {
+            "name": "Israelfluz",
+            "email": "israelfaria.gtr@gmail.com"
+        }
+    ],
+    "minimum-stability": "dev",
+    "require": {
+        "monolog/monolog":"1.0.*" 
+    }
+}
